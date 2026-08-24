@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="트로피"><path d="M13 6h22v13c0 6.1-4.9 11-11 11s-11-4.9-11-11V6Z" fill="#FFD52E"/>
+<path d="M13 6h11v24c-6.1 0-11-4.9-11-11V6Z" fill="#FFE063"/>
+<path d="M13 9H8.5A4.5 4.5 0 0 0 4 13.5C4 19.3 8 23 13 23v-4c-2.7 0-5-1.9-5-5.5H13V9Z" fill="#FFA938"/>
+<path d="M35 9h4.5A4.5 4.5 0 0 1 44 13.5C44 19.3 40 23 35 23v-4c2.7 0 5-1.9 5-5.5H35V9Z" fill="#FFA938"/>
+<rect x="21" y="29" width="6" height="8" fill="#FF9200"/>
+<rect x="13" y="36" width="22" height="6" rx="3" fill="#FF9200"/></svg>

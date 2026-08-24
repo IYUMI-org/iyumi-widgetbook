@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="아기"><g transform="translate(-1.95 -2.49) scale(1.0811)"><circle cx="24" cy="26" r="17" fill="#FFC06E"/>
+<path d="M11 15c2-6 7-9 13-9s11 3 13 9c-4-3-8-4-13-4s-9 1-13 4Z" fill="#FF9200"/>
+<circle cx="17.5" cy="25" r="2.6" fill="#70737C"/>
+<circle cx="30.5" cy="25" r="2.6" fill="#70737C"/>
+<circle cx="13" cy="31" r="3" fill="#FF8C8C" fill-opacity=".7"/>
+<circle cx="35" cy="31" r="3" fill="#FF8C8C" fill-opacity=".7"/>
+<path d="M19 32.5a5.5 5.5 0 0 0 10 0" stroke="#70737C" stroke-width="2.6"
+      stroke-linecap="round" fill="none"/></g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="꽃"><g transform="translate(0.0 1.5) scale(1.0)"><ellipse cx="24" cy="12" rx="6.4" ry="8.4" fill="#FFB8F3"/>
+<ellipse cx="24" cy="12" rx="6.4" ry="8.4" fill="#FF94ED" transform="rotate(72 24 24)"/>
+<ellipse cx="24" cy="12" rx="6.4" ry="8.4" fill="#FFB8F3" transform="rotate(144 24 24)"/>
+<ellipse cx="24" cy="12" rx="6.4" ry="8.4" fill="#FF94ED" transform="rotate(216 24 24)"/>
+<ellipse cx="24" cy="12" rx="6.4" ry="8.4" fill="#FFB8F3" transform="rotate(288 24 24)"/>
+<circle cx="24" cy="24" r="6" fill="#FFD52E"/></g></svg>

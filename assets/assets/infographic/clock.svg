@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="시간"><g transform="translate(-1.26 -2.32) scale(1.0526)"><circle cx="24" cy="25" r="19" fill="#FFC06E"/>
+<circle cx="24" cy="25" r="14" fill="#FFFFFF" fill-opacity=".85"/>
+<rect x="22.4" y="13" width="3.2" height="13.5" rx="1.6" fill="#FF9200"/>
+<rect x="22.4" y="23.4" width="3.2" height="10" rx="1.6" fill="#FF9200"
+      transform="rotate(-90 24 25)"/>
+<circle cx="24" cy="25" r="2.4" fill="#FFA938"/></g></svg>
