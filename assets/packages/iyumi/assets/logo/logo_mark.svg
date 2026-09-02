@@ -1,0 +1,17 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- 시작 화면용 로고 — app_icon.svg 와 같은 구성(오렌지 배경 + 흰 얼굴)에
+     코너 라디어스만 228→320 으로 키운 파생 에셋(2026-08-26 사용자).
+     프라이머리 램프 교체 시 배경 fill 도 함께 바꾼다(스플래시 로고와 동일 규칙). -->
+<g clip-path="url(#clip0_logo_mark)">
+<path d="M704 0H320C143.269 0 0 143.269 0 320V704C0 880.731 143.269 1024 320 1024H704C880.731 1024 1024 880.731 1024 704V320C1024 143.269 880.731 0 704 0Z" fill="#F2913D"/>
+<circle cx="512" cy="479.112" r="280.112" fill="white"/>
+<ellipse cx="512" cy="600.523" rx="329.544" ry="225.477" fill="white"/>
+<ellipse cx="681.975" cy="600.956" rx="159.568" ry="159.135" fill="white"/>
+<ellipse cx="342.025" cy="600.956" rx="159.568" ry="159.135" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_logo_mark">
+<rect width="1024" height="1024" fill="white"/>
+</clipPath>
+</defs>
+</svg>
