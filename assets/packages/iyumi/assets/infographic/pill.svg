@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="투약"><g transform="translate(-8.0 -8.0) scale(1.3333)"><g transform="rotate(-45 24 24)">
+  <path d="M9 24a9 9 0 0 1 9-9h6v18h-6a9 9 0 0 1-9-9Z" fill="#FF6363"/>
+  <path d="M39 24a9 9 0 0 0-9-9h-6v18h6a9 9 0 0 0 9-9Z" fill="#FF8C8C"/>
+  <rect x="27" y="20.5" width="7" height="2.4" rx="1.2" fill="#FFFFFF"/>
+</g></g></svg>
