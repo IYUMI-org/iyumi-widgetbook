@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="몸무게"><g transform="translate(-1.26 -2.32) scale(1.0526)"><rect x="5" y="6" width="38" height="38" rx="7" fill="#DBDCDF"/>
+<circle cx="24" cy="19.5" r="9.5" fill="#FFFFFF"/>
+<path d="M24 19.5L29.51 13.99" stroke="#FF6363" stroke-width="2.8"
+      stroke-linecap="round" fill="none"/>
+<circle cx="24" cy="19.5" r="2.2" fill="#70737C"/>
+<rect x="9" y="32" width="13" height="8" rx="3" fill="#AEB0B6"/>
+<rect x="26" y="32" width="13" height="8" rx="3" fill="#AEB0B6"/></g></svg>
