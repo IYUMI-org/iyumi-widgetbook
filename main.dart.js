@@ -48785,10 +48785,9 @@ if(b.$1(r))return r
 if(a.length!==q)throw A.i(A.cM(a))}throw A.i(A.cq())},
 Gq(a,b){return this.A7(a,b,null)},
 bW(a,b){return a[b]},
-de(a,b,c){var s=a.length
-if(b>s)throw A.i(A.dC(b,0,s,"start",null))
-if(c==null)c=s
-else if(c<b||c>s)throw A.i(A.dC(c,b,s,"end",null))
+de(a,b,c){if(b<0||b>a.length)throw A.i(A.dC(b,0,a.length,"start",null))
+if(c==null)c=a.length
+else if(c<b||c>a.length)throw A.i(A.dC(c,b,a.length,"end",null))
 if(b===c)return A.a([],A.a8(a))
 return A.a(a.slice(b,c),A.a8(a))},
 iO(a,b){return this.de(a,b,null)},
