@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="음성 기록"><rect x="16" y="3" width="16" height="27" rx="8" fill="#FFA938"/>
+<path d="M24 3a8 8 0 0 0-8 8v11a8 8 0 0 0 8 8Z" fill="#FFC06E"/>
+<path d="M10.5 21v1.5a13.5 13.5 0 0 0 27 0V21" stroke="#AEB0B6" stroke-width="3.6"
+      stroke-linecap="round" fill="none"/>
+<path d="M24 36v6.2" stroke="#AEB0B6" stroke-width="3.6" stroke-linecap="round" fill="none"/>
+<path d="M17.5 43.2h13" stroke="#AEB0B6" stroke-width="3.6" stroke-linecap="round" fill="none"/></svg>
